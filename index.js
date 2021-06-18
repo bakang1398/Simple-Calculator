@@ -18,3 +18,22 @@ function subtract(c, d) {
 }
 
 subtract(8741, 1478);
+
+// Multiplication of two numbers using augmented compound function
+
+function multiply(e, f) {
+    let product = e *= f;
+    document.write(product, "<br>");
+}
+
+multiply(11, 90);
+
+// Division between two numbers function
+
+function divide(g, h) {
+    let quotient = g / h;
+
+        document.write(quotient, "<br>");
+}
+
+divide(9852, 6);
