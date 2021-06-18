@@ -6,8 +6,8 @@ This is a beginners small project for a simple calculator using functions in Jav
 
 ## Languages
 
-HTML
-Javascript
+- HTML
+- Javascript
 
 ## Project Authors
 
