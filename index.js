@@ -2,7 +2,7 @@
 
 function add(a,b) {
     let sum = a + b;
-
+    console.log("testing");
     document.write("The answer is: " + sum, "<br>");
 }
 
@@ -17,7 +17,7 @@ function subtract(c, d) {
     document.write(difference, "<br>");
 }
 
-subtract(8741, 1478);
+subtract(8741, 2);
 
 // Multiplication of two numbers using augmented compound function
 
