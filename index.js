@@ -32,7 +32,7 @@ multiply(11, 90);
 
 function divide(g, h) {
     let quotient = g / h;
-
+        console.log('Wisdom');
         document.write(quotient, "<br>");
 }
 
