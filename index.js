@@ -12,7 +12,7 @@ add(1989,1998);
 
 function subtract(c, d) {
     let difference = c - d;
-    console.log(difference);
+    console.log(nelisiwe);
 
     document.write(difference, "<br>");
 }
