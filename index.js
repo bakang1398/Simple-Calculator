@@ -2,7 +2,7 @@
 
 function add(a,b) {
     let sum = a + b;
-    console.log("testing");
+    console.log("testing two");
     document.write("The answer is: " + sum, "<br>");
 }
 
