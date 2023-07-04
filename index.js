@@ -2,7 +2,7 @@
 
 function add(a,b) {
     let sum = a + b;
-    console.log("testing 1");
+    console.log("phindile");
     document.write("The answer is: " + sum, "<br>");
 }
 
