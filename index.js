@@ -3,6 +3,7 @@
 function add(a,b) {
     let sum = a + b;
     console.log("phindile");
+    let testing = "Testing merge conflicts";
     document.write("The answer is: " + sum, "<br>");
 }
 
