@@ -14,6 +14,7 @@ add(1989,1998);
 function subtract(c, d) {
     let difference = c - d;
     console.log(nelisiwe);
+    console.log("demo");
 
     document.write(difference, "<br>");
 }
