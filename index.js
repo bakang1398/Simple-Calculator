@@ -24,6 +24,7 @@ subtract(8741, 2);
 
 function multiply(e, f) {
     let product = e *= f;
+    console.log("Thabotsai");
     document.write(product, "<br>");
 }
 
