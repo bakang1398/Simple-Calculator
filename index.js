@@ -24,7 +24,11 @@ subtract(8741, 2);
 
 function multiply(e, f) {
     let product = e *= f;
+<<<<<<< HEAD
     console.log('paulaa');
+=======
+    console.log("Bakang Sebetlela");
+>>>>>>> main
     document.write(product, "<br>");
 }
 
