@@ -3,6 +3,8 @@
 function add(a,b) {
     let sum = a + b;
     console.log("paula");
+    console.log("phindile");
+    console.log("testing 12 12");
     document.write("The answer is: " + sum, "<br>");
 }
 
@@ -12,7 +14,7 @@ add(1989,1998);
 
 function subtract(c, d) {
     let difference = c - d;
-    console.log(difference);
+    console.log(nelisiwe);
 
     document.write(difference, "<br>");
 }
@@ -32,7 +34,7 @@ multiply(11, 90);
 
 function divide(g, h) {
     let quotient = g / h;
-
+        console.log('Wisdom');
         document.write(quotient, "<br>");
 }
 
